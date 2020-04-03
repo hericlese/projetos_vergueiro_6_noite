@@ -8,8 +8,6 @@ Nesse semestre teremos um novo desafio na construção do nosso Projeto de Desen
 
 Os conceitos desenvolvidos nas demais disciplinas anteriores e deste semestre devem ser empregados em sua completude, ou seja, devem estar presentes em todas as etapas do projeto. O projeto não restringe a utilização de outras tecnologias, mesmo que não tenham sido abordadas no curso.
 
-**Disciplinas deste semestre:** Computação gráfica, para desenvolverem a parte visual e física dos componentes; Jogos digitais, para o desenvolvimento do jogo; multimídia e realidade, para o desenvolvimento da imersão sensorial do jogo; programação web para o desenvolvimento do site do jogo e qualidade de software, para garantia da consistência do jogo e do processo de desenvolvimento.
-
 A ideia é desenvolver um aplicativo em Android que utilize recursos de um site (que também será desenvolvido), trocando informações. Na disciplina de Computação Móvel será fornecida toda a estrutura para o desenvolvimento desta parte do projeto.
 
 Como todo projeto, trabalharemos em grupo e teremos uma série de atividades a serem cumpridas pelos membros do grupo, em datas específicas que serão fornecidas pelo professor. O grupo deverá criar um ambiente no Google Drive e compartilhar o documento disponível acima **Modelo de Projeto** comigo para acompanhamento, realizando as implementações solicitadas para as datas de entrega que estão descritas no **Calendário de Entregas**. Farei as correções de forma online, acessando diretamente o documento no Google Drive. Portanto, não me enviem documentos por e-mail.
